@@ -1,4 +1,6 @@
-﻿function Trace-Route ($Destination){
+﻿#This script contains a function that's a wrapper for tracert (traceroute)
+ 
+ function Trace-Route ($Destination){
 
 $LASTEXITCODE = $null
 
