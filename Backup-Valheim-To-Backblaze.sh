@@ -1,7 +1,10 @@
 #!/bin/bash
 
+# This script backs up a Valheim dedicated server to a Backblaze bucket.
+# It requires s3fs to mount/unmount the B2 bucket;
+# and it needs a file in the root of the bucket called "B2IsMounted.txt"
+
 #get the current date
-#BACKUPTIME=`date +%b-%d-%y`
 BACKUPTIME=`date -u +%FT%H%MZ`
 
 #Define Folders
