@@ -1,4 +1,6 @@
-﻿$Root = "https://isc.sans.edu"
+﻿# This script scrapes public blocklists and imports them into a Windows system's HOSTS file as 127.0.0.1
+  
+ $Root = "https://isc.sans.edu"
 $MalwareDomains = "http://mirror1.malwaredomains.com/files/domains.txt"
 $RansomwareDomains = "https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt"
 $ZeusDomains = "https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist"
