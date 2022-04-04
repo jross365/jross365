@@ -1,4 +1,10 @@
-﻿Function Convert-NetTimeToGephiTime ($TimeStamp){
+﻿# This script:
+ # 1. Scrapes the IETF RFC website,
+ # 2. Parses every RFC listing,
+ # 3. Correlates all related RFCs and respective datestamps,
+ # 4. and exports the results in Gephi-compatible "Node" and "Edge" tables.
+ 
+ Function Convert-NetTimeToGephiTime ($TimeStamp){
 
 $TimeStamp = (Get-date ($TimeStamp) -Format "o")
 $TimeStamp = $TimeStamp.Substring(0,($TimeStamp.Length - 5)) + 'Z'
