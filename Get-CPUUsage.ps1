@@ -1,4 +1,8 @@
-﻿Function Three-Chars ($Value){
+﻿# This script contains a function (Get-CPUUsage) that displays per-core CPU usage as a grid of blocks listing % value, 
+ # with an associated color (green, yellow, red) at intervals of 500ms.
+
+ 
+ Function Three-Chars ($Value){
     $N = 1..2
 
     If ([bool]($N -match ([string]$Value).Length)){
