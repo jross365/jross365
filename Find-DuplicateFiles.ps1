@@ -1,3 +1,6 @@
+# This script uses SHA256 hashing and hashtable collisions to identify every duplicate file on a computer's local drives
+# Files smaller than 3KB are excluded
+
 $TargetDrives = (Get-PSDrive -PSProvider FileSystem).Root
 
 $HashTable = @{}
