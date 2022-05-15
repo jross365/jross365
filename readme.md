@@ -2,11 +2,11 @@
 
 **Phrases**
 
-Data Science ⚡ Cloud Computing 💗 Automation 💬 Artificial Intelligence ⛰️ Machine Learning 👏 Automation 🌱 Big Data 🤔 
+ Cloud Computing 💗 Automation 💬 Artificial Intelligence ⛰️ Machine Learning 👏 Automation 🌱 Big Data 🤔 
 
 **A Statement**
 
-Synergistically transform 🦋 our technological future 📱 through sophisticated prediction 🔮 and behavior analysis algorithms 💻
+Synergistically transform 🦋 our technological future 📱 through sophisticated prediction 🔮 and behavior analysis 💻
 
 **How I'm Doing So Far**
 
@@ -18,11 +18,11 @@ Synergistically transform 🦋 our technological future 📱 through sophisticat
 
 ❌ Programming Language/Brand/Project Badges
 
-**If you haven't gathered by now, I'm being cheeky.** 
+### If you haven't gathered by now, I'm being cheeky.
 
 While searching around for examples of GitHub profile templates, I noticed most are a strange mix of resume-type content, personal interest content and _absurd quantities of emojis._
 
-To each, their own; but that's not the cut of my jib.
+To each, their own, but that's not my style or preference.
 
 ### About Me, For Real This Time
 
@@ -36,23 +36,42 @@ Like most IT professionals, there have been innumerable cases where I've had one
 
 * Figure out how to script and automate those tasks.
 
-As a inwardly lazy person, I opted for the latter. By front-loading the time effort into a scripting language, I've turned a 70-hour/week job into a 40-hour/week job.
+As a inwardly lazy person, I opted for the latter. By front-loading the time and effort into a scripting language, I've turned a 70-hour/week job into a 40-hour/week job.
 
-The result is that I've become reasonably proficient 
+The result is that I've become reasonably proficient in Powershell. In that proficiency, I've come to enjoy solving novel problems with the language, and creating new tools and toys to explore its capabilities.
 
+It's one thing to solve a problem or do something novel for oneself, but it's all the better if the product of that effort is useful to someone else.
 
-<!--
-**Thomas-George-T/Thomas-George-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**But Powershell isn't _real_ coding!**
 
-Here are some ideas to get you started:
+I've seen this argument put forward many times, mainly by python enthusiasts. The reasons range from pendantic to ideological, and I'm not interested in having that conversation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-    
+**Fine. So, what next?**
+
+As of May 2022, I have a couple very useful and very neat tools I'm actively building. 
+
+* **Extended File Attributes Enumerator** (Powershell)
+
+Provides functionality akin to **Get-ChildItem** but returns data such as photo EXIF data, video encoding/quality/size data, ecetera.
+
+ It's not quite ready for public consumption, but I see a lot of promise in it. There's some clever optimizations, and I'm excited to make it public for use and improvement.
+
+* **Steam Game Files Backup/Restore Tool** (Powershell)
+
+Steam's backup/restore functionality is terrible. It's single-threaded and compresses poorly. There is a much better way to back up and restore games, and I'm building it.
+
+**_Ahem_, Emojis...**
+
+Alright, fine. I'll drop in the customary template, copied and pasted into readme.md files everywhere for time immemorial. 
+
+- 🔭 **I’m currently working on**: An extended attributes enumerator function and a Steam game files backup/restore tool
+- 🌱 **I’m currently learning**: Microsoft Azure, Terraform Enterprise and Hashicorp Configuration Language (HCL)
+- 👯 **I’m looking to collaborate on:** Anything where my skills and knowledge might be useful. Contact me if you think I can help you.
+- 🤔 **I’m looking for help with:** If you're volunteering, I always have laundry and dishes to do.
+- 💬 **Ask me about:** Powershell, infrastructure integration and management, and the IT industry in general.
+- 📫 **How to reach me**: [Send me an email](mailto:jross365github@gmail.com) and I'll get back to you.
+- ⚡ **Fun fact**: Flamingos are born white when they hatch and turn pink from their diet. Also, flamingos are omnivorous filter feeders.
+
+**Thank you for listening to my TED Talk**
+
+If you made it this far, I would like to thank you from the bottom of my heart for reading this little bit of self indulgence. I hope that something I've built can be of use or of interest to you. Have a wonderful day!
