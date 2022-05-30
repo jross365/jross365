@@ -18,11 +18,11 @@ Synergistically transform 🦋 our technological future 📱 through sophisticat
 
 ❌ Programming Language/Brand/Project Badges
 
-### If you haven't gathered by now, I'm being cheeky.
+### If you haven't gathered by now, I'm being cheeky
 
 While searching around for examples of GitHub profile templates, I noticed most are a strange mix of resume-type content, personal interest content and _absurd quantities of emojis._
 
-To each, their own, but that's not my style or preference.
+To each their own, but that's not my style or preference.
 
 ### About Me, For Real This Time
 
