@@ -22,7 +22,7 @@ Synergistically transform 🦋 our technological future 📱 through sophisticat
 
 While searching around for examples of GitHub profile templates, I noticed most are a strange mix of resume-type content, personal interest content and _absurd quantities of emojis._
 
-To each their own, but that's not my style or preference.
+To each their own 🤷
 
 ### About Me, For Real This Time
 
@@ -42,11 +42,7 @@ The result is that I've become reasonably proficient in Powershell. In that prof
 
 It's one thing to solve a problem or do something novel for oneself, but it's all the better if the product of that effort is useful to someone else.
 
-**But Powershell isn't _real_ coding!**
-
-I've seen this argument put forward many times, mainly by python enthusiasts. The reasons range from pendantic to ideological, and I'm not interested in having that conversation.
-
-**Fine. So, what next?**
+**What are you working on?**
 
 As of May 2022, I have a couple very useful and very neat tools I'm actively building. 
 
