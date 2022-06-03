@@ -46,11 +46,11 @@ It's one thing to solve a problem or do something novel for oneself, but it's al
 
 As of May 2022, I have a couple very useful and very neat tools I'm actively building. 
 
-* **Extended File Attributes Enumerator** (Powershell)
+* **Get-ExtendedAttributes** (Powershell)
 
 Provides functionality akin to **Get-ChildItem** but returns data such as photo EXIF data, video encoding/quality/size data, ecetera.
 
- It's not quite ready for public consumption, but I see a lot of promise in it. There's some clever optimizations, and I'm excited to make it public for use and improvement.
+ **06/2022 Update:** I've released the first public version of this module! [You can check it out here](https://github.com/jross365/Get-ExtendedAttributes)
 
 * **Steam Game Files Backup/Restore Tool** (Powershell)
 
