@@ -66,7 +66,7 @@ Alright, fine. I'll drop in the customary template, copied and pasted into readm
 - 🤔 **I’m looking for help with:** If you're volunteering, I always have laundry and dishes to do.
 - 💬 **Ask me about:** Powershell, infrastructure integration and management, and the IT industry in general.
 - 📫 **How to reach me**: [Send me an email](mailto:jross365github@gmail.com) and I'll get back to you.
-- ⚡ **Fun fact**: Flamingos are born white when they hatch and turn pink from their diet. Also, flamingos are omnivorous filter feeders.
+- ⚡ **Fun fact**: Flamingos are born white when they hatch and turn pink from their diet. Also, flamingos are omnivorous filter feeders. Flamingos are awesome!
 
 **Thank you for listening to my TED Talk**
 
