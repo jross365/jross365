@@ -52,6 +52,12 @@ Provides functionality akin to **Get-ChildItem** but returns data such as photo 
 
  **06/2022 Update:** I've released the first public version of this module! [You can check it out here](https://github.com/jross365/Get-ExtendedAttributes)
 
+* **Invoke-7ZIP** (Powershell)
+
+Extends 7-Zip functionality to Powershell via well-integrated wrapper modules. This module is a prerequisite to a Steam Backup/Restore tool that I plan on writing.
+
+ **02/2023 Update:** I finished this module a month ago, but forgot to update my profile readme. [You can check it out here](https://github.com/jross365/Invoke-7Zip)
+
 * **Steam Game Files Backup/Restore Tool** (Powershell)
 
 Steam's backup/restore functionality is terrible. It's single-threaded and compresses poorly. There is a much better way to back up and restore games, and I'm building it.
